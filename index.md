@@ -1,4 +1,7 @@
 ## Welcome to NS Tech Nepal
+
+![NS Tech Logo](./logo.jpeg)
+
 ### Related to Security and Networking products
 
 ### Under Construction
